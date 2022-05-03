@@ -16,6 +16,15 @@ With Contentful and Gatsby you can connect your favorite static site generator w
 
 ## Getting started
 
+### Things updated
+
+The `contentful space import` arguments updated from the original blog post.
+
+```
+npm i -g contentful-cli
+contentful space import --space-id jorcy3lz1xbf --content-file contentful/export.json
+```
+
 See our [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
 
 ### Get the source code and install dependencies.
